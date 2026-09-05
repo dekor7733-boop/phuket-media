@@ -1,0 +1,10 @@
+# В этом репозитории только публичные медиафайлы.
+*.env
+.env
+*.sqlite3
+*.db
+*.token
+.github_token
+*.py
+*.ps1
+*.vbs
